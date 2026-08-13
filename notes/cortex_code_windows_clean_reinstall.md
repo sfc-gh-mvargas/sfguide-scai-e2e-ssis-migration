@@ -4,7 +4,6 @@
 
 **Purpose:** Remove stale Unix-style paths such as `C:\Users\kevin\.local\bin\cortex`, reinstall the native Windows CLI, and configure the Snowflake VS Code extension.
 
-> **This article is internal only.**
 
 ## Before you begin
 
